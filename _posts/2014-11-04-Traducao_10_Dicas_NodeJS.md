@@ -3,7 +3,7 @@ layout: post
 title: 10 dicas para fazer aplicação NodeJS mais rápida
 ---
 
-Texto Original: 10 Tips to Make Your Node.js Web App Faster[http://www.sitepoint.com/10-tips-make-node-js-web-app-faster/] Autor: Sandeep Panda
+Texto Original: [10 Tips to Make Your Node.js Web App Faster](http://www.sitepoint.com/10-tips-make-node-js-web-app-faster/) Autor: Sandeep Panda
 
 Tradução feita por André Nardy.
 
